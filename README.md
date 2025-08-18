@@ -1,6 +1,6 @@
-# Tecnologías para la Automatización 2024
+# Tecnologías para la Automatización 2025
 
-Este es el repositorio de código y referencias de TPA 2024
+Este es el repositorio de código y referencias de TPA 2025
 
 ## Comercios de electrónica locales
 
