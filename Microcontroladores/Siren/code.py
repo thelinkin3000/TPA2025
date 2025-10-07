@@ -5,7 +5,7 @@ import pwmio
 # Configuramos el pin de salida LED en modo PWM, con una
 # frecuencia de 5MHz y porcentaje de duty cycle activo de 0,
 # es decir apagado todo el tiempo:
-led = pwmio.PWMOut(board.GP0, frequency=5000, duty_cycle=0)
+led = pwmio.PWMOut(board.GP1, frequency=5000, duty_cycle=0)
 
 while True:
     for i in range(100):
